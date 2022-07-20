@@ -7,21 +7,21 @@ One of the most important design goals in Feather is quality. Unlike other modpa
 If you do encounter an issue where Feather crashes or has any bugs, don't hesitate to open an issue. Each mod is carefully checked to ensure quality, but after all, bugs and crashes are unavoidable. Before opening a new issue, please check using the search tool that your issue has not already been created, and that if there is a suitable template for the issue you are opening, that it is filled out entirely. Issues which are duplicates or do not contain the necessary information to triage and debug may be closed.
 
 ### Mods
-We have a variety of mods to improve performance, and we also include some QoL mods. Here's the list below.
+We have a variety of mods to improve performance, but we also include some QoL mods.
 
 ### Optimization Mods
 | Name | Description | Source Code | Download |
 |:-----|:------|:------|:------|
-|Sodium   |Modern rendering engine and client-side optimization mod for Minecraft|[Github](https://github.com/CaffeineMC/sodium-fabric)|[Modrinth](https://modrinth.com/mod/sodium)|
+|Sodium |Client-side optimization mod|[Github](https://github.com/CaffeineMC/sodium-fabric)|[Modrinth](https://modrinth.com/mod/sodium)|
 |Lithium |No-compromises optimization mod|[Github](https://github.com/CaffeineMC/lithium-fabric)|[Modrinth](https://modrinth.com/mod/lithium)|
-|Starlight |Rewrites the light engine to fix lighting performance and lighting errors|[Github](https://github.com/IrisShaders/Iris)|[Modrinth](https://modrinth.com/mod/starlight)|
-|Ferrite Core   |Reduces the memory usage of the game| [Github](https://github.com/IrisShaders/Iris) | [Modrinth](https://modrinth.com/mod/starlight) |
-|Iris Shaders   |A modern shaders mod for Minecraft | [Github](https://github.com/IrisShaders/Iris) | [Modrinth](https://modrinth.com/mod/iris) |
+|Starlight |Lighting engine optimization mod|[Github](https://github.com/PaperMC/Starlight)|[Modrinth](https://modrinth.com/mod/starlight)|
+|Ferrite Core |Reduces the memory usage of the game| [Github](https://github.com/IrisShaders/Iris) | [Modrinth](https://modrinth.com/mod/starlight) |
+|Iris Shaders |A modern shaders mod for Minecraft | [Github](https://github.com/IrisShaders/Iris) | [Modrinth](https://modrinth.com/mod/iris) |
 
 ## Installation
 
 ### Downloading
-
+Check for the latest release [here](https://github.com/gabrielvicenteYT/Feather/releases)
 
 ### License
-Feather is licensed under GNU LGPLv3, a free and open-source license. For more information, please see the license file.
+Feather is licensed under GNU GPLv3, a free and open-source license. For more information, please see the [license](https://github.com/gabrielvicenteYT/Feather/blob/main/LICENSE.MD) file.
