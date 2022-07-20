@@ -17,3 +17,8 @@ We have a variety of mods to improve performance, and we also include some QoL m
 |Starlight |Rewrites the light engine to fix lighting performance and lighting errors|[Github](https://github.com/IrisShaders/Iris)|[Modrinth](https://modrinth.com/mod/starlight)|
 |Ferrite Core   |Reduces the memory usage of the game| [Github](https://github.com/IrisShaders/Iris) | [Modrinth](https://modrinth.com/mod/starlight) |
 |Iris Shaders   |A modern shaders mod for Minecraft | [Github](https://github.com/IrisShaders/Iris) | [Modrinth](https://modrinth.com/mod/iris) |
+
+## Installation
+
+## License
+Feather is licensed under GNU LGPLv3, a free and open-source license. For more information, please see the license file.
