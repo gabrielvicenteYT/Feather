@@ -5,11 +5,11 @@ An lightweight modpack mainly focused on FPS
 
 | Name | Description | Sources |
 |:-----|:------:|------:|
-|Sodium   |Modern rendering engine and client-side optimization mod for Minecraft    |Modrinth    |
+|Sodium   |Modern rendering engine and client-side optimization mod for Minecraft    |[Github](https://github.com/IrisShaders/Iris) [Download](https://modrinth.com/mod/iris)    |
 |Lithium   |No-compromises optimization mod     |fff    |
-|Starlight   |Rewrites the light engine to fix lighting performance and lighting errors     |Modrinth    |
+|Starlight   |Rewrites the light engine to fix lighting performance and lighting errors     |[Github](https://github.com/IrisShaders/Iris) [Download](https://modrinth.com/mod/iris)    |
 |Ferrite Core |Reduces the memory usage of the game     |Modrinth     |
-|Iris Shaders   |A modern shaders mod for Minecraft intended to be compatible with existing OptiFine shader packs    |[Modrinth](https://modrinth.com/mod/iris)    |
+|Iris Shaders   |A modern shaders mod for Minecraft intended to be compatible with existing OptiFine shader packs    | [Github](https://github.com/IrisShaders/Iris) [Download](https://modrinth.com/mod/iris)    |
 |Lithium   |eee     |fff    |
 |Lithium   |eee     |fff    |
 
