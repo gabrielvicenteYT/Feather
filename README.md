@@ -20,5 +20,8 @@ We have a variety of mods to improve performance, and we also include some QoL m
 
 ## Installation
 
-## License
+### Downloading
+
+
+### License
 Feather is licensed under GNU LGPLv3, a free and open-source license. For more information, please see the license file.
