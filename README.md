@@ -3,7 +3,7 @@ An lightweight modpack mainly focused on FPS
 
 ## Mods
 
-| Left | Center | Right |
+| Name | Description | Source |
 |:-----|:------:|------:|
 |aaa   |bbb     |ccc    |
 |ddd   |eee     |fff    |
